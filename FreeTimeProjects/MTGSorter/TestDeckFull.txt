@@ -1,0 +1,88 @@
+1 Ancient Tomb
+1 Animal Sanctuary
+1 Arcane Denial
+1 Arcane Signet
+1 Beast Within
+1 Birds of Paradise
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cascade Bluffs
+1 Chasm Skulker
+1 Chord of Calling
+1 Clout of the Dominus
+1 Command Tower
+1 Craterhoof Behemoth
+1 Cryptolith Rite
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dockside Extortionist
+1 Doubling Season
+1 Expropriate
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Finale of Devastation
+1 Fire-Lit Thicket
+1 Flooded Grove
+1 Force of Negation
+1 Force of Will
+6 Forest
+1 Goblin Bombardment
+1 Growing Rites of Itlimoc
+1 Heroic Intervention
+1 Impact Tremors
+5 Island
+1 Jace's Archivist
+1 Jeweled Lotus
+1 Karplusan Forest
+1 Ketria Triome
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Llanowar Elves
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Misty Rainforest
+1 Molten Psyche
+4 Mountain
+1 Mystical Tutor
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Parallel Lives
+1 Phyrexian Altar
+1 Pongify
+1 Prowling Serpopard
+1 Purphoros, God of the Forge
+1 Rampant Growth
+1 Red Elemental Blast
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rhystic Study
+1 Sakura-Tribe Elder
+1 Scalding Tarn
+1 Shivan Reef
+1 Skullclamp
+1 Sol Ring
+1 Solve the Equation
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Swan Song
+1 Sword of Feast and Famine
+1 Sylvan Library
+1 Temur Sabertooth
+1 The One Ring
+1 Thought Vessel
+1 Three Visits
+1 Training Center
+1 Triumph of the Hordes
+1 Wash Away
+1 Waterlogged Grove
+1 Wheel and Deal
+1 Wilderness Reclamation
+1 Windfall
+1 Winds of Change
+1 Wooded Foothills
+1 Worldly Tutor
+1 Xyris, the Writhing Storm
