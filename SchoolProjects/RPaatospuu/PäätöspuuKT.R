@@ -1,8 +1,6 @@
 # Päätöspuu tehtävä
 # 16.4.2024
 
-# Käyttäkää tätä esimerkkiä R-kurssityössä.
-
 options(digits = 10)
 
 library(caret)
