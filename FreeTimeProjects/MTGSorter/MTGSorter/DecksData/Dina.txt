@@ -1,0 +1,93 @@
+powerlevel, 7
+1 Abrupt Decay
+1 Agadeem's Awakening
+1 Arboreal Grazer
+1 Ashnod's Altar
+1 Assassin's Trophy
+1 Bala Ged Recovery
+1 Bastion of Remembrance
+1 Birds of Paradise
+1 Black Market Connections
+1 Blood Artist
+1 Bloodghast
+1 Bloodsoaked Champion
+1 Bloom Tender
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Command Tower
+1 Corrupted Conviction
+1 Cult Conscript
+1 Dark Prophecy
+1 Deadly Dispute
+1 Deathcap Glade
+1 Deathreap Ritual
+1 Delighted Halfling
+1 Dryad Arbor
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Evolutionary Leap
+1 Exotic Orchard
+1 Fabled Passage
+1 Falkenrath Noble
+1 Fanatical Offering
+4 Forest
+1 Foundation Breaker
+1 Fyndhorn Elves
+1 Grim Haruspex
+1 Gutterbones
+1 Haunted Mire
+1 Haywire Mite
+1 High Market
+1 Infernal Grasp
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Malakir Rebirth
+1 Marauding Blight-Priest
+1 Midnight Reaper
+1 Moldervine Reclamation
+1 Morbid Opportunist
+1 Mortality Spear
+1 Mosswood Dreadknight
+1 Necroblossom Snarl
+1 Necropotence
+1 Nether Traitor
+1 Night's Whisper
+1 Nurturing Peatland
+1 Oathsworn Vampire
+1 Overgrown Tomb
+1 Pawn of Ulamog
+1 Persistent Specimen
+1 Phyrexian Altar
+1 Phyrexian Tower
+1 Pitiless Plunderer
+1 Prismatic Vista
+1 Read the Bones
+1 Reassembling Skeleton
+1 Reckoner's Bargain
+1 Reflecting Pool
+1 Shriekmaw
+1 Sifter of Skulls
+1 Sign in Blood
+1 Skullclamp
+6 Swamp
+1 Sylvan Library
+1 Tainted Wood
+1 Tear Asunder
+1 Tenacious Dead
+1 Tenacious Underdog
+1 The Meathook Massacre
+1 Twilight Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Vengevine
+1 Village Rites
+1 Vindictive Vampire
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Vraan, Executioner Thane
+1 Wild Growth
+1 Woodland Cemetery
+1 Woodland Chasm
+1 Zulaport Cutthroat
+1 Dina, Soul Steeper

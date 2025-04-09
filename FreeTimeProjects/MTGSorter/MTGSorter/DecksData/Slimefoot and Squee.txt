@@ -1,0 +1,84 @@
+powerlevel, 7
+1 Altar of Dementia
+1 Angel of Suffering
+1 Anger
+1 Arcane Signet
+1 Assassin's Trophy
+1 Atraxa's Fall
+1 Avenger of Zendikar
+1 Beast Within
+1 Bladewing, Deathless Tyrant
+1 Bolt Bend
+1 Brass's Tunnel-Grinder
+1 Breach the Multiverse
+1 Buried Alive
+1 Butcher of Malakir
+1 Cathartic Reunion
+1 Chainer, Nightmare Adept
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Craterhoof Behemoth
+1 Damnation
+1 Deadly Rollick
+1 Decimate
+1 Deflecting Swat
+1 Diabolic Intent
+1 Disciple of Bolas
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Endurance
+1 Entomb
+1 Etali, Primal Conqueror
+1 Eternal Witness
+1 Evolving Wilds
+1 Faithless Looting
+7 Forest
+1 Ghalta, Stampede Tyrant
+1 Goblin Bombardment
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Harness Infinity
+1 Hermit Druid
+1 Ignoble Hierarch
+1 Korvold, Fae-Cursed King
+1 Life's Legacy
+1 Luxury Suite
+1 Mayhem Devil
+6 Mountain
+1 Nyxbloom Ancient
+1 Open the Way
+1 Phyrexian Altar
+1 Pitiless Plunderer
+1 Poison Dart Frog
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Reanimate
+1 Reclamation Sage
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Savage Lands
+1 Shigeki, Jukai Visionary
+1 Skull Prophet
+1 Sling-Gang Lieutenant
+1 Smoldering Marsh
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spire Garden
+1 Springbloom Druid
+7 Swamp
+1 Tear Asunder
+1 Tendershoot Dryad
+1 The Gitrog, Ravenous Ride
+1 The Great Henge
+1 Undercellar Myconid
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Underrealm Lich
+1 Victimize
+1 Viscera Seer
+1 Woe Strider
+1 World Shaper
+1 Ziatora, the Incinerator
+1 Ziatora's Proving Ground
+1 Slimefoot and Squee

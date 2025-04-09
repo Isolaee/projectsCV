@@ -1,0 +1,85 @@
+powerlevel, 7
+1 Academy Ruins
+1 Azorius Chancery
+1 Blackblade Reforged
+1 Blacksmith's Skill
+1 Bojuka Bog
+1 Burnished Hart
+1 Canoptek Wraith
+1 Cloud Key
+1 Cloudshift
+1 Counterspell
+1 Crawlspace
+1 Crucible of Worlds
+1 Dakkon, Shadow Slayer
+1 Dimir Aqueduct
+1 Dowsing Dagger
+1 Evolving Wilds
+1 Expedition Map
+1 Explorer's Scope
+1 Fabled Passage
+1 Fabricate
+1 Felidar Retreat
+1 Flooded Strand
+1 Foundry Inspector
+1 Gift of Estates
+1 Godless Shrine
+1 Golden Guardian
+1 Hallowed Fountain
+1 Halvar, God of Battle
+1 Haunted Cloak
+1 Helm of the Host
+1 Island
+5 Island
+1 Keeper of the Accord
+1 Kor Cartographer
+1 Korlash, Heir to Blackblade
+1 Land Tax
+1 Marsh Flats
+1 Mithril Coat
+1 Myriad Landscape
+1 Negate
+1 Oblivion Sower
+1 Open the Armory
+1 Orzhov Basilica
+7 Plains
+1 Polluted Delta
+1 Profane Tutor
+1 Puresteel Paladin
+1 Realmbreaker, the Invasion Tree
+1 Rebuff the Wicked
+1 Reconnaissance Mission
+1 Rings of Brighthearth
+1 Rogue's Passage
+1 Scaretiller
+1 Seer's Sundial
+1 Shadowmage Infiltrator
+1 Shadowspear
+1 Shimmering Wings
+1 Shizo, Death's Storehouse
+1 Sire of Stagnation
+1 Sol Ring
+1 Solemn Simulacrum
+1 Steel of the Godhead
+1 Steelshaper's Gift
+1 Stonehewer Giant
+1 Sun Titan
+7 Swamp
+1 Swiftfoot Boots
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Sword of Vengeance
+1 Swords to Plowshares
+1 Terramorphic Expanse
+1 Thaumatic Compass
+1 The Reality Chip
+1 Tiller Engine
+1 Traveler's Amulet
+1 Urborg, Tomb of Yawgmoth
+1 Vanguard Suppressor
+1 Vesuvan Duplimancy
+1 Walking Atlas
+1 Watery Grave
+1 Whispersilk Cloak
+1 Wrath of God
+1 Dakkon Blackblade

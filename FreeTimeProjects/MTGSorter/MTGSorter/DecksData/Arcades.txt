@@ -1,0 +1,98 @@
+powerlevel, 6
+1 Alchemist's Refuge
+1 Arctic Treeline
+1 Aura Shards
+1 Axebane Guardian
+1 Azorius Guildgate
+1 Beast Whisperer
+1 Brave the Sands
+1 Circuitous Route
+1 Command Tower
+1 Coral Colony
+1 Counterspell
+1 Crashing Drawbridge
+1 Cryptolith Rite
+1 Doorkeeper
+1 Dreamroot Cascade
+1 Dusk/Dawn
+1 Eladamri's Call
+1 Evolving Wilds
+1 Farseek
+1 Flumph
+1 Fog Bank
+1 Forest
+2 Forest
+1 Forest
+1 Glacial Floodplain
+1 Gleaming Barrier
+1 Grappling Sundew
+1 Growth Spiral
+1 Haze of Pollen
+1 Heliod's Intervention
+1 High Alert
+1 Horizon Canopy
+1 Hornet Nest
+1 Hour of Revelation
+1 Huatli, the Sun's Heart
+1 Idyllic Tutor
+1 Into the North
+1 Irrigated Farmland
+1 Island
+1 Island
+1 Island
+1 Jeskai Barricade
+1 Jungle Barrier
+1 Karametra, God of Harvests
+1 Krosan Verge
+1 Lead the Stampede
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Minamo Scrollkeeper
+1 Mnemonic Wall
+1 Overgrown Battlement
+1 Path to Exile
+1 Pemmin's Aura
+1 Plains
+2 Plains
+2 Plains
+1 Rammas Echor, Ancient Shield
+1 Rampant Growth
+1 Razorverge Thicket
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Resolute Watchdog
+1 Rimewood Falls
+1 Sanctuary Wall
+1 Seaside Citadel
+1 Selesnya Guildgate
+1 Shield-Wall Sentinel
+1 Simic Guildgate
+1 Slaughter the Strong
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Sol Ring
+1 Sunpetal Grove
+1 Sunscape Familiar
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Terramorphic Expanse
+1 Tetsuko Umezawa, Fugitive
+1 Teyo, the Shieldmage
+1 The Pride of Hull Clade
+1 Tower Defense
+1 Tree of Redemption
+1 Ulvenwald Captive
+1 Uncage the Menagerie
+1 Voidslime
+1 Walking Bulwark
+1 Wall of Blossoms
+1 Wall of Denial
+1 Wall of Kelp
+1 Wall of Mulch
+1 Wall of Omens
+1 Wall of Roots
+1 Wall of Stolen Identity
+1 Waterlogged Grove
+1 Wingmantle Chaplain
+1 Arcades, the Strategist

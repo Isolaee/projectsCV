@@ -1,0 +1,85 @@
+powerlevel, 7
+1 Abuelo, Ancestral Echo
+1 Adarkar Wastes
+1 Alquist Proft, Master Sleuth
+1 Ao, the Dawn Sky
+1 Arcade Gannon
+1 Azorius Chancery
+1 Barrin, Tolarian Archmage
+1 Breath of Life
+1 Call a Surprise Witness
+1 Callous Dismissal
+1 Celestine, the Living Saint
+1 Collector's Vault
+1 Command Tower
+1 Daxos of Meletis
+1 Defy Death
+1 Deserted Beach
+1 Destroy Evil
+1 Dorothea, Vengeful Victim
+1 Dragonlord Ojutai
+1 Eiganjo, Seat of the Empire
+1 Elspeth Conquers Death
+1 Eriette's Tempting Apple
+1 Fabled Passage
+1 Geier Reach Sanitarium
+1 Ghost Quarter
+1 Glacial Fortress
+1 Grazilaxx, Illithid Scholar
+1 Gregor, Shrewd Magistrate
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Invoke Justice
+9 Island
+1 Isperia, Supreme Judge
+1 Iymrith, Desert Doom
+1 Kairi, the Swirling Sky
+1 Late to Dinner
+1 Liberator, Urza's Battlethopter
+1 Lier, Disciple of the Drowned
+1 Linvala, Shield of Sea Gate
+1 Lonely Arroyo
+1 Loran of the Third Path
+1 Make Your Move
+1 Malcolm, Alluring Scoundrel
+1 Mangara of Corondor
+1 Matzalantli, the Great Door
+1 Miraculous Recovery
+1 Mirror Strike
+1 Mirror-Sigil Sergeant
+1 Moorland Haunt
+1 Otawara, Soaring City
+1 Path to Exile
+1 Pippin, Guard of the Citadel
+9 Plains
+1 Plaza of Heroes
+1 Port Town
+1 Prairie Stream
+1 Prince Imrahil the Fair
+1 Prismatic Vista
+1 Proft's Eidetic Memory
+1 Raff Capashen, Ship's Mage
+1 Realmbreaker, the Invasion Tree
+1 Recommission
+1 Relic of Legends
+1 Resurrection
+1 Sally Sparrow
+1 Sea of Clouds
+1 Search for Azcanta
+1 Sevinne's Reclamation
+1 Shabraz, the Skyshark
+1 Shorikai, Genesis Engine
+1 Soul Partition
+1 Tarrian's Soulcleaver
+1 Teshar, Ancestor's Apostle
+1 Tetsuko Umezawa, Fugitive
+1 The Celestus
+1 The Everflowing Well
+1 The Indomitable
+1 The Key to the Vault
+1 The Reality Chip
+1 The Restoration of Eiganjo
+1 Urza's Ruinous Blast
+1 Venser, Shaper Savant
+1 Weatherlight
+1 Niambi, Esteemed Speaker

@@ -1,0 +1,82 @@
+powerlevel, 7
+1 Allosaurus Shepherd
+1 Ancient Tomb
+1 Arbor Elf
+1 Bala Ged Recovery
+1 Beast Whisperer
+1 Boreal Druid
+1 Boseiju, Who Endures
+1 Canopy Tactician
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Circle of Dreams Druid
+1 Compost
+1 Copperhorn Scout
+1 Craterhoof Behemoth
+1 Crop Rotation
+1 Disciple of Freyalise
+1 Drove of Elves
+1 Dwynen, Gilt-Leaf Daen
+1 Eladamri, Korvecdal
+1 Elven Ambush
+1 Elven Chorus
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Promenade
+1 Elvish Reclaimer
+1 Elvish Vanguard
+1 Elvish Warmaster
+1 Essence Warden
+1 Finale of Devastation
+20 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Galadhrim Ambush
+1 Gemstone Caverns
+1 Green Sun's Zenith
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Haldir, Lórien Lieutenant
+1 Harvest Season
+1 Heedless One
+1 Heroic Intervention
+1 Imaryll, Elfhame Elite
+1 Jagged-Scar Archers
+1 Joraga Warcaller
+1 Kindred Summons
+1 Lair of the Hydra
+1 Last March of the Ents
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Natural Order
+1 Nature's Lore
+1 Noxious Revival
+1 Nykthos, Shrine to Nyx
+1 Oracle of Mul Daya
+1 Oran-Rief, the Vastwood
+1 Overwhelming Stampede
+1 Priest of Titania
+1 Primeval Herald
+1 Rampant Growth
+1 Realmwalker
+1 Reliquary Tower
+1 Shifting Woodland
+1 Skyshroud Poacher
+1 Summoner's Pact
+1 Sylvan Library
+1 Tajuru Preserver
+1 Three Visits
+1 Timberwatch Elf
+1 Tireless Provisioner
+1 Triumph of the Hordes
+1 Wellwisher
+1 Wirewood Channeler
+1 Wood Elves
+1 Worldly Tutor
+1 Yavimaya Hollow
+1 Yavimaya, Cradle of Growth
+1 Yeva, Nature's Herald
+1 Nissa, Resurgent Animist
+1 Eladamri, Lord of Leaves

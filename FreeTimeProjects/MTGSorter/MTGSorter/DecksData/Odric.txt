@@ -1,0 +1,69 @@
+powerlevel, 7
+1 Adorned Pouncer
+1 Aerial Extortionist
+1 Aerial Responder
+1 Akroma's Vengeance
+1 Angel of Indemnity
+1 Angel of Invention
+1 Angelic Overseer
+1 Ao, the Dawn Sky
+1 Archon of Coronation
+1 Aven Interrupter
+1 Aven Sunstriker
+1 Bastion Protector
+1 Benevolent Bodyguard
+1 Boromir, Warden of the Tower
+1 Breathkeeper Seraph
+1 Bruna, the Fading Light
+1 Celestine, the Living Saint
+1 Claim Jumper
+1 Clever Concealment
+1 Devastating Mastery
+1 Elesh Norn, Grand Cenobite
+1 Emeria, the Sky Ruin
+1 Enlightened Tutor
+1 Expedition Map
+1 Firemane Commando
+1 Flare of Fortitude
+1 Flumph
+1 Fortunate Few
+1 Gisela, the Broken Blade
+1 Heliod, God of the Sun
+1 Heliod, Sun-Crowned
+1 Hour of Revelation
+1 Knight of the White Orchid
+1 Lightning Greaves
+1 Loran of the Third Path
+1 Loyal Warhound
+1 Mangara, the Diplomat
+1 Minas Tirith
+1 Mother of Runes
+1 Nykthos, Shrine to Nyx
+1 Oketra the True
+1 Ox Drover
+1 Palace Jailer
+1 Path to Exile
+33 Plains
+1 Planar Cleansing
+1 Ranger-Captain of Eos
+1 Selfless Spirit
+1 Serra Ascendant
+1 Serra Paragon
+1 Serra's Emissary
+1 Skyhunter Skirmisher
+1 Sol Ring
+1 Space Marine Scout
+1 Speaker of the Heavens
+1 Steelshaper's Gift
+1 Sun Titan
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thalia's Lancers
+1 The One Ring
+1 Twilight Shepherd
+1 Twinblade Geist
+1 Weathered Wayfarer
+1 Welcoming Vampire
+1 Wojek Investigator
+1 Odric, Lunarch Marshal

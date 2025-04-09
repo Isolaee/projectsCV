@@ -1,0 +1,78 @@
+powerlevel, 7
+1 Acidic Slime
+1 Aetherling
+1 Altered Ego
+1 Beast Within
+1 Blighted Woodland
+1 Bow of Nylea
+1 Broken Bond
+1 Cauldron of Souls
+1 Coiling Oracle
+1 Corrupting Licid
+1 Cryptic Caves
+1 Cultivate
+1 Cultivator of Blades
+1 Cytoplast Root-Kin
+1 Deathsprout
+1 Dismiss into Dream
+1 Edge of Autumn
+1 Endling
+1 Evil Twin
+1 Evolving Wilds
+1 Exotic Orchard
+1 Experiment Kraj
+1 Farseek
+1 Fertile Ground
+1 Fertilid
+1 Fetid Pools
+12 Forest
+1 Gaze of Granite
+1 Generous Patron
+1 Giant Adephage
+1 Gliding Licid
+1 Grow from the Ashes
+1 Hunter's Insight
+1 Invisible Stalker
+8 Island
+1 Keep Watch
+1 Kodama's Reach
+1 Ley Line
+1 Magnetic Web
+1 Monastery Siege
+1 New Horizons
+1 Novijen, Heart of Progress
+1 Nurturing Licid
+1 Obsessive Skinner
+1 Opulent Palace
+1 Painful Truths
+1 Putrefy
+1 Rain of Revelation
+1 Rampaging Baloths
+1 Rampant Growth
+1 Reckless Spite
+1 Retreat to Kazandu
+1 Sakura-Tribe Elder
+1 Secrets of the Golden City
+1 Simic Guildmage
+1 Slaughter
+1 Slippery Scoundrel
+1 Spark Double
+1 Spawnwrithe
+1 Stomp and Howl
+6 Swamp
+1 Tainted Wood
+1 Temple of Mystery
+1 Tempting Licid
+1 Terramorphic Expanse
+1 Tetzimoc, Primal Death
+1 Transmogrifying Licid
+1 Troll Ascetic
+1 Trygon Predator
+1 Unspeakable Symbol
+1 Urban Evolution
+1 Willbreaker
+1 Words of Wisdom
+1 Yahenni's Expertise
+1 Yavimaya Dryad
+1 Yavimaya Granger
+1 Volrath, the Shapestealer

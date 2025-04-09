@@ -1,0 +1,87 @@
+powerlevel, 6
+1 Ancient Tomb
+1 Bitterthorn, Nissa's Animus
+1 Black Market Connections
+1 Black Sun's Twilight
+1 Bubbling Muck
+1 Cabal Coffers
+1 Cabal Ritual
+1 Cabal Stronghold
+1 Castle Locthwain
+1 City of Traitors
+1 Clackbridge Troll
+1 Command Beacon
+1 Damnation
+1 Dark Ritual
+1 Dark Salvation
+1 Dead of Winter
+1 Deadly Cover-Up
+1 Deadly Rollick
+1 Defile
+1 Demonic Tutor
+1 Dismember
+1 Doomwake Giant
+1 Dowsing Dagger
+1 Dread Presence
+1 Engineered Plague
+1 Exsanguinate
+1 Forbidden Orchard
+1 Force of Despair
+1 Gemstone Caverns
+1 Gravestorm
+1 Grim Tutor
+1 Head Games
+1 Illness in the Ranks
+1 Imperial Seal
+1 Infernal Genesis
+1 Insatiable Avarice
+1 Invoke Despair
+1 Jet Medallion
+1 Jeweled Lotus
+1 Killing Wave
+1 Lake of the Dead
+1 Languish
+1 Mana Crypt
+1 Massacre Girl
+1 Massacre Girl, Known Killer
+1 Massacre Wurm
+1 Night of Souls' Betrayal
+1 Nuclear Fallout
+1 Nykthos, Shrine to Nyx
+1 Peat Bog
+1 Phyrexian Arena
+1 Plague Engineer
+1 Primaris Eliminator
+1 Profane Tutor
+1 Revel in Riches
+1 Ritual of Soot
+1 Sadistic Sacrament
+1 Sceptre of Eternal Glory
+1 Slaughter Specialist
+15 Snow-Covered Swamp
+1 Sol Ring
+1 Species Specialist
+1 Sudden Spoiling
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Tainted Aether
+1 Temple of the False God
+1 The Meathook Massacre
+1 Throne of Eldraine
+1 Tombstone Stairwell
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Tragic Slip
+1 Tsabo's Decree
+1 Twilight Prophet
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Vein Ripper
+1 Virtue of Persistence
+1 Virulent Plague
+1 Volrath's Stronghold
+1 War Room
+1 Witch's Clinic
+1 Withering Boon
+1 Yawgmoth's Will
+1 Kaervek, the Spiteful

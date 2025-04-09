@@ -1,0 +1,100 @@
+powerlevel, 7
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Bala Ged Recovery
+1 Barbary Apes
+1 Beast Within
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Brotherhood's End
+1 Cavern of Souls
+1 Chandra's Ignition
+1 Chaos Warp
+1 Chrome Mox
+1 Command Beacon
+1 Command Tower
+1 Creeping Corrosion
+1 Crop Rotation
+1 Deflecting Swat
+1 Dockside Extortionist
+1 Doubling Season
+1 Force of Vigor
+2 Forest
+1 Gaea's Cradle
+1 Gaea's Gift
+1 Gamble
+1 Garruk's Uprising
+1 Gearbane Orangutan
+1 Gemstone Caverns
+1 Gorilla Shaman
+1 Grove of the Burnwillows
+1 Hardened Scales
+1 Harmonize
+1 Heroic Intervention
+1 Idol of Oblivion
+1 Inspiring Call
+1 Instill Energy
+1 Jeweled Lotus
+1 Kessig Wolf Run
+1 Kird Ape
+1 Kogla and Yidaro
+1 Kogla, the Titan Ape
+1 Legolas's Quick Reflexes
+1 Liquimetal Torque
+1 Mana Crypt
+1 Meltdown
+1 Misty Rainforest
+1 Mithril Coat
+1 Mountain
+1 Mox Diamond
+1 Mox Opal
+1 Nature's Chosen
+1 Nature's Lore
+1 Patriar's Seal
+1 Plaza of Heroes
+1 Primal Vigor
+1 Ragavan, Nimble Pilferer
+1 Rancor
+1 Ravenous Baboons
+1 Rogue's Passage
+1 Rootbound Crag
+1 Scalding Tarn
+1 Scrounging Bandar
+1 Seedborn Muse
+1 Seeds of Innocence
+1 Shatterstorm
+1 Silkguard
+1 Silverback Elder
+1 Skarrg, the Rage Pits
+1 Smuggler's Surprise
+1 Sol Ring
+1 Spire Garden
+1 Spiteful Banditry
+1 Stomping Ground
+1 Sylvan Library
+1 Sylvan Scrying
+1 Sylvan Tutor
+1 Taiga
+1 Talisman of Impulse
+1 Tamiyo's Safekeeping
+1 The Great Henge
+1 The One Ring
+1 The Ozolith
+1 Three Visits
+1 Towering Gibbon
+1 Tree Monkey
+1 Tyvar's Stand
+1 Uktabi Orangutan
+1 Urza's Saga
+1 Vandalblast
+1 Verdant Catacombs
+1 Viridian Revel
+1 War Room
+1 Wily Bandar
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Hollow
+1 Yavimaya Steelcrusher
+1 Kibo, Uktabi Prince

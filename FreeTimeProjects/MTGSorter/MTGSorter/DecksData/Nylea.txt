@@ -1,0 +1,85 @@
+powerlevel, 7
+1 Abundance
+1 All Is Dust
+1 Ancient Tomb
+1 Apex Devastator
+1 Artisan of Kozilek
+1 Bala Ged Recovery
+1 Bane of Bala Ged
+1 Beast Within
+1 Boseiju, Who Endures
+1 Breaker of Armies
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Cloud Key
+1 Concordant Crossroads
+1 Conduit of Ruin
+1 Crop Rotation
+1 Deceiver of Form
+1 Druid of Purification
+1 Eldrazi Conscription
+1 Eldrazi Mimic
+1 Eldrazi Temple
+1 Elemental Bond
+1 Emergence Zone
+1 Emrakul, the Promised End
+1 Eternal Witness
+1 Expedition Map
+1 Eye of Ugin
+1 Ezuri's Predation
+1 Flayer of Loyalties
+10 Forest
+1 Forsaken Monument
+1 Garruk, Primal Hunter
+1 Garruk's Uprising
+1 Goreclaw, Terror of Qal Sisma
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Guildless Commons
+1 Hashep Oasis
+1 Herald's Horn
+1 It That Heralds the End
+1 Kozilek, Butcher of Truth
+1 Kozilek, the Great Distortion
+1 Last March of the Ents
+1 Lightning Greaves
+1 Mana Crypt
+1 Mind Stone
+1 Mystic Forge
+1 Nature's Claim
+1 Nature's Lore
+1 Oblivion Sower
+1 Pir's Whim
+1 Reclamation Sage
+1 Rise of the Eldrazi
+1 Sanctum of Ugin
+1 Semblance Anvil
+1 Shrine of the Forsaken Gods
+1 Skittering Cicada
+1 Skyshroud Claim
+1 Sol Ring
+1 Song of the Dryads
+1 Strip Mine
+1 Sylvan Library
+1 Tangled Florahedron
+1 Tempt with Discovery
+1 Thaumatic Compass
+1 The Immortal Sun
+1 Three Visits
+1 Tribute to the World Tree
+1 Turntimber Symbiosis
+1 Ugin, the Ineffable
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Ulamog's Crusher
+1 Urza's Incubator
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Utopia Sprawl
+1 Wastes
+1 Wild Growth
+1 World Breaker
+1 Yavimaya, Cradle of Growth
+1 Zhulodok, Void Gorger
+1 Nylea, Keen-Eyed

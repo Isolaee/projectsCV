@@ -1,0 +1,83 @@
+powerlevel, 7
+1 Aboshan's Desire
+1 Aqueous Form
+1 Arni Slays the Troll
+1 Artful Dodge
+1 Breath of Darigaaz
+1 Careful Cultivation
+1 Cartouche of Strength
+1 Chain Reaction
+1 Charge Through
+1 Choose Your Weapon
+1 Command Tower
+1 Commander's Sphere
+1 Consuming Tide
+1 Decisive Denial
+1 Dire-Strain Rampage
+1 Evolving Wilds
+1 Exotic Orchard
+1 Experimental Overload
+1 Explore
+1 Fae Flight
+1 Fertile Ground
+1 Fiery Inscription
+8 Forest
+1 Frontier Bivouac
+1 Gaea's Gift
+1 Growth Spasm
+1 Gruul Guildgate
+1 Harrow
+1 Honored Heirloom
+1 Hunter's Insight
+1 Inscription of Abundance
+7 Island
+1 Izzet Guildgate
+1 K-9, Mark I
+1 Lantern of Revealing
+1 Letter of Acceptance
+1 Lightning Spear
+1 Memory Lapse
+6 Mountain
+1 Murmuring Mystic
+1 Negate
+1 Niblis of Frost
+1 Omen of the Hunt
+1 Once and Future
+1 Opal Palace
+1 Orcish Lumberjack
+1 Path of Ancestry
+1 Rampant Growth
+1 Ravenform
+1 Reclaim
+1 Repulsive Mutation
+1 Resculpt
+1 Return to Nature
+1 Road/Ruin
+1 Rogue's Passage
+1 Rugged Highlands
+1 Run Away Together
+1 Search for Tomorrow
+1 Simic Charm
+1 Simic Guildgate
+1 Slip Through Space
+1 Spell Rupture
+1 Spring/Mind
+1 Swiftwater Cliffs
+1 Sword Coast Sailor
+1 Talrand, Sky Summoner
+1 Temur Battle Rage
+1 Terramorphic Expanse
+1 The Lost and the Damned
+1 Thornwood Falls
+1 Two-Handed Axe
+1 Unsubstantiate
+1 Veil of Secrecy
+1 Vessel of Volatility
+1 Wavebreak Hippocamp
+1 Wild Shape
+1 Wilt
+1 You Come to a River
+1 You Find the Villains' Lair
+1 You See a Guard Approach
+1 Haldan, Avid Arcanist
+1 Pako, Arcane Retriever

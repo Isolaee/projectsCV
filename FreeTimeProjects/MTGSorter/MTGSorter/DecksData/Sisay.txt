@@ -1,0 +1,98 @@
+powerlevel, 6
+1 Adarkar Wastes
+1 Ash Barrens
+1 Bind
+1 Board the Weatherlight
+1 Brushland
+1 Capsize
+1 Captain Sisay
+1 Caves of Koilos
+1 Coalition Relic
+1 Command Tower
+1 Crovax the Cursed
+1 Crystal Quarry
+1 Day of Destiny
+1 Defense of the Heart
+1 Disenchant
+1 Dueling Grounds
+1 Ertai Resurrected
+1 Evasive Action
+1 Evolving Wilds
+1 Fertile Ground
+1 Flagstones of Trokair
+3 Forest
+1 Fortified Beachhead
+1 Gerrard Capashen
+1 Gerrard, Weatherlight Hero
+1 Gerrard's Hourglass Pendant
+1 Global Ruin
+1 Grand Coliseum
+1 Hall of Tagsin
+1 Hanna, Ship's Navigator
+1 Haunted Mire
+1 Insight
+1 Island
+1 Jace, Cunning Castaway
+1 Jhoira of the Ghitu
+1 Jhoira, Ageless Innovator
+1 Jhoira, Weatherlight Captain
+1 Karn Liberated
+1 Karn, Silver Golem
+1 Karn, the Great Creator
+1 Karn's Temporal Sundering
+1 Karplusan Forest
+1 Legacy Weapon
+1 Liliana, the Last Hope
+1 Llanowar Wastes
+1 Mercadia's Downfall
+1 Mirri, Weatherlight Duelist
+1 Mountain
+1 Mox Amber
+1 Multani, Maro-Sorcerer
+1 Nature's Lore
+1 Null Rod
+1 Orim, Samite Healer
+1 Orim's Chant
+2 Plains
+1 Plaza of Heroes
+1 Primevals' Glorious Rebirth
+1 Protective Sphere
+1 Raff Capashen, Ship's Mage
+1 Raff, Weatherlight Stalwart
+1 Rampant Growth
+1 Reap
+1 Relic of Legends
+1 Restrain
+1 Scroll Rack
+1 Shanna, Purifying Blade
+1 Shivan Reef
+1 Sisay's Ring
+1 Skyship Weatherlight
+1 Skyshroud Claim
+1 Slimefoot and Squee
+1 Sol Ring
+1 Squee, Goblin Nabob
+1 Starke of Rath
+1 Sudden Impact
+1 Sulfurous Springs
+1 Swamp
+1 Swamp
+1 Sword of the Chosen
+1 Tahngarth, First Mate
+1 Tahngarth, Talruum Hero
+1 Taiga
+1 Tangled Islet
+1 Teferi, Time Raveler
+1 Teferi's Isle
+1 Terminal Moraine
+1 Terramorphic Expanse
+1 Tidal Bore
+1 Tolaria West
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Ruinous Blast
+1 Vindicate
+1 Weatherlight
+1 Weatherlight Compleated
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Sisay, Weatherlight Captain

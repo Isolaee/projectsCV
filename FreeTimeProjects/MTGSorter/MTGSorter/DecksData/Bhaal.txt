@@ -1,0 +1,87 @@
+powerlevel, 5
+1 Aerie Ouphes
+1 Arcane Signet
+1 Archfiend of Depravity
+1 Blasphemous Act
+1 Blood on the Snow
+1 Bontu's Last Reckoning
+1 Burnished Hart
+1 Cabaretti Courtyard
+1 Cadaver Imp
+1 Carrion Feeder
+1 Cavalier of Night
+1 Chaos Warp
+1 Charnelhoard Wurm
+1 Command Tower
+1 Corpse Connoisseur
+1 Corpse Hauler
+1 Cultivate
+1 Dawntreader Elk
+1 Deadly Tempest
+1 Dimir House Guard
+1 Elvish Mystic
+1 Eternal Witness
+1 Evolving Wilds
+1 Exotic Orchard
+1 Farseek
+1 Fecundity
+1 Foreboding Ruins
+1 Fyndhorn Elves
+1 Game Trail
+1 Generous Patron
+1 Genesis
+1 Goblin Matron
+1 Golgari Signet
+1 Grim Haruspex
+1 Grumgully, the Generous
+1 Gruul Signet
+1 Harvester of Souls
+1 Hero's Downfall
+1 Hunter of Eyeblights
+1 Kardur, Doomscourge
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Mask of Griselbrand
+1 Master Chef
+1 Mausoleum Secrets
+1 Midnight Reaper
+1 Moldervine Reclamation
+1 Mossfire Valley
+1 Murderous Redcap
+1 Neverwinter Dryad
+1 Persistent Specimen
+1 Putrefy
+1 Putrid Goblin
+1 Rakdos Carnarium
+1 Rakdos Signet
+1 Reassembling Skeleton
+1 Renata, Called to the Hunt
+1 Rhythm of the Wild
+1 Riveteers Overlook
+1 Rogue's Passage
+1 Rushed Rebirth
+1 Sakura-Tribe Elder
+1 Savage Lands
+1 Shadowblood Ridge
+1 Skirk Prospector
+1 Smoldering Marsh
+5 Snow-Covered Forest
+4 Snow-Covered Mountain
+8 Snow-Covered Swamp
+1 Sol Ring
+1 Spore Frog
+1 Spring-Leaf Avenger
+1 Storrev, Devkarin Lich
+1 Sulfurous Mire
+1 Tainted Peak
+1 Tainted Wood
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Terminate
+1 Vile Entomber
+1 Viscera Seer
+1 Woe Strider
+1 Wood Elves
+1 Woodland Chasm
+1 Bhaal, Lord of Murder

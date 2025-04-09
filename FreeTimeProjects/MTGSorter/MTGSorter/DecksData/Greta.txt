@@ -1,0 +1,94 @@
+powerlevel, 7
+1 Academy Manufactor
+1 Agatha's Soul Cauldron
+1 Alhammarret's Archive
+1 Annihilating Glare
+1 Bake into a Pie
+1 Bala Ged Recovery
+1 Barad-dûr
+1 Beseech the Mirror
+1 Black Market Connections
+1 Blood Money
+1 Bootleggers' Stash
+1 Cathedral Acolyte
+1 Command Tower
+1 Deadly Derision
+1 Deadly Dispute
+1 Defense of the Heart
+1 Displaced Dinosaurs
+1 Doubling Season
+1 Edgewall Inn
+1 Elanor Gardner
+1 Eriette's Tempting Apple
+1 Evolving Wilds
+1 Experimental Confectioner
+1 Ezuri's Predation
+1 Fabled Passage
+1 Fain, the Broker
+1 Feasting Troll King
+1 Feed the Cauldron
+1 Field of the Dead
+4 Forest
+1 Gilded Goose
+1 Gingerbread Cabin
+1 Gingerbrute
+1 God-Eternal Bontu
+1 Golgari Rot Farm
+1 Gumdrop Poisoner
+1 Hangarback Walker
+1 Hardened Scales
+1 Haunted Mire
+1 Heroic Intervention
+1 Idol of Oblivion
+1 Inspiring Call
+1 Inventors' Fair
+1 Jaheira, Friend of the Forest
+1 Jungle Hollow
+1 Killer Service
+1 Krark-Clan Ironworks
+1 Malakir Rebirth
+1 Many Partings
+1 Marionette Master
+1 Mazirek, Kraul Death Priest
+1 Mirkwood Bats
+1 Mirrex
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Nadier's Nightblade
+1 Night of the Sweets' Revenge
+1 Noxious Revival
+1 Nuka-Cola Vending Machine
+1 Nykthos, Shrine to Nyx
+1 Old Flitterfang
+1 Overgrown Tomb
+1 Ozolith, the Shattered Spire
+1 Panharmonicon
+1 Parallel Lives
+1 Peregrin Took
+1 Pippin, Warden of Isengard
+1 Primeval Bounty
+1 Prosperous Innkeeper
+1 Rapacious Guest
+1 Restless Cottage
+1 Return from the Wilds
+1 Revive the Shire
+1 Snow-Covered Forest
+1 Snow-Covered Forest
+2 Snow-Covered Swamp
+1 Spider Food
+4 Swamp
+1 Syr Ginger, the Meal Ender
+1 Terramorphic Expanse
+1 Tetravus
+1 Thaumatic Compass
+1 The Shire
+1 Threefold Thunderhulk
+1 Tireless Provisioner
+1 Trading Post
+1 Treasure Vault
+1 Tribute to the World Tree
+1 Walking Ballista
+1 Welcome to Sweettooth
+1 Westvale Abbey
+1 Witch's Oven
+1 Greta, Sweettooth Scourge

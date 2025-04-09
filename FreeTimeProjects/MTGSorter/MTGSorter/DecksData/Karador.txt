@@ -1,0 +1,85 @@
+powerlevel, 7
+1 Ao, the Dawn Sky
+1 Arashi, the Sky Asunder
+1 Ashen-Skin Zubera
+1 Blessed Breath
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Brightclimb Pathway
+1 Brushland
+1 Canopy Vista
+1 Caves of Koilos
+1 Celestial Kirin
+1 Choice of Damnations
+1 Command Tower
+1 Crib Swap
+1 Cultivate
+1 Dripping-Tongue Zubera
+1 Eerie Ultimatum
+1 Elder Pine of Jukai
+1 Etchings of the Chosen
+1 Ethereal Haze
+1 Farseek
+1 Footsteps of the Goryo
+8 Forest
+1 Forked-Branch Garami
+1 Ghost-Lit Stalker
+1 Gravelighter
+1 Hana Kami
+1 Haru-Onna
+1 He Who Hungers
+1 High Market
+1 Hokori, Dust Drinker
+1 Horobi's Whisper
+1 Iname as One
+1 Iname, Death Aspect
+1 Indatha Triome
+1 Infernal Kirin
+1 Isolated Chapel
+1 Jugan Defends the Temple
+1 Jugan, the Rising Star
+1 Junji, the Midnight Sky
+1 Kami of Ancient Law
+1 Kami of False Hope
+1 Kataki, War's Wage
+1 Kodama of the East Tree
+1 Kodama's Reach
+1 Kokusho, the Evening Star
+1 Kura, the Boundless Sky
+1 Kuro, Pitlord
+1 Kyoki, Sanity's Eclipse
+1 Lifespinner
+1 Llanowar Wastes
+1 Loam Dweller
+1 Long-Forgotten Gohei
+1 Moonlit Strider
+1 Nameless Inversion
+1 Otherworldly Journey
+1 Oyobi, Who Split the Heavens
+1 Pact of the Serpent
+1 Path of Ancestry
+1 Path to Exile
+1 Patriarch's Bidding
+1 Petalmane Baku
+5 Plains
+1 Rampant Growth
+1 Rend Flesh
+1 Rise of the Dark Realms
+1 Rootrunner
+1 Sakura-Tribe Elder
+1 Sandsteppe Citadel
+1 Secluded Courtyard
+1 Shinen of Life's Roar
+1 Shirei, Shizo's Caretaker
+1 Silent-Chant Zubera
+1 Sol Ring
+1 Sunpetal Grove
+6 Swamp
+1 Sylvan Library
+1 Thief of Hope
+1 Time of Need
+1 Unclaimed Territory
+1 Urza's Incubator
+1 Wear Away
+1 Yosei, the Morning Star
+1 Karador, Ghost Chieftain

@@ -1,0 +1,79 @@
+powerlevel, 7
+1 Altar of Dementia
+1 And They Shall Know No Fear
+1 Arcane Signet
+1 Ashnod's Altar
+1 Battlefield Forge
+1 Blasphemous Act
+1 Bolt Bend
+1 Brion Stoutarm
+1 Clifftop Retreat
+1 Command Beacon
+1 Command Tower
+1 Cursed Mirror
+1 Determined Iteration
+1 Drumbellower
+1 Duergar Hedge-Mage
+1 Dutiful Replicator
+1 Eldrazi Displacer
+1 Emrakul's Hatcher
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Faithless Looting
+1 Fanatical Devotion
+1 Fellwar Stone
+1 Gamble
+1 Goblin Bombardment
+1 Grand Abolisher
+1 Helm of Possession
+1 Idyllic Tutor
+1 Impact Tremors
+1 Imperial Recruiter
+1 Kiki-Jiki, Mirror Breaker
+1 Knight of the White Orchid
+1 Land Tax
+1 Lorehold Apprentice
+1 Luminous Broodmoth
+1 Mana Echoes
+1 Mistmoon Griffin
+1 Mob Rule
+1 Mondrak, Glory Dominus
+1 Moorland Rescuer
+12 Mountain
+1 Myriad Landscape
+1 Needleverge Pathway
+1 Nesting Dovehawk
+1 Neyali, Suns' Vanguard
+1 Ojer Taq, Deepest Foundation
+12 Plains
+1 Precursor Golem
+1 Priest of Urabrask
+1 Prosperous Partnership
+1 Purphoros, God of the Forge
+1 Quintorius, Field Historian
+1 Rally the Ancestors
+1 Recruiter of the Guard
+1 Reliquary Tower
+1 Return the Favor
+1 Rugged Prairie
+1 Seize the Spotlight
+1 Sejiri Shelter
+1 Slaughter the Strong
+1 Smothering Tithe
+1 Sneak Attack
+1 Sol Ring
+1 Spectator Seating
+1 Storm of Souls
+1 Sundown Pass
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Taurean Mauler
+1 Thought Vessel
+1 Tibalt's Trickery
+1 Trouble in Pairs
+1 Vandalblast
+1 Vanquish the Horde
+1 Venerable Warsinger
+1 Village Bell-Ringer
+1 Wear/Tear
+1 Hofri Ghostforge

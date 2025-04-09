@@ -1,0 +1,80 @@
+powerlevel, 6
+1 Abdel Adrian, Gorion's Ward
+1 Aerial Extortionist
+1 Angel of Serenity
+1 Arcane Denial
+1 Arcane Signet
+1 Archon of Coronation
+1 Austere Command
+1 Braids, Conjurer Adept
+1 Cascade Bluffs
+1 Chromatic Lantern
+1 Combustible Gearhulk
+1 Command Tower
+1 Commander's Sphere
+1 Council's Judgment
+1 Counterspell
+1 Dawnbreak Reclaimer
+1 Deserted Beach
+1 Devastating Mastery
+1 Dualcaster Mage
+1 Ethereal Valkyrie
+1 Fact or Fiction
+1 Faerie Artisans
+1 Fellwar Stone
+1 Fiendish Duo
+1 Forbidden Orchard
+1 Humble Defector
+1 Insufferable Balladeer
+8 Island
+1 Karmic Guide
+1 Khârn the Betrayer
+1 Life of the Party
+1 Lightning Greaves
+1 Loran of the Third Path
+1 Lord of Change
+1 Mind Stone
+1 Molten Primordial
+6 Mountain
+1 Mulldrifter
+1 Myr Battlesphere
+1 Myriad Landscape
+1 Mystic Gate
+1 Mystic Monastery
+1 Mystic Reflection
+1 Nevermaker
+1 Ox Drover
+1 Path to Exile
+1 Perilous Landscape
+10 Plains
+1 Prairie Stream
+1 Pramikon, Sky Rampart
+1 Raugrin Crystal
+1 Resolute Archangel
+1 Rugged Prairie
+1 Secret Rendezvous
+1 Shifting Grift
+1 Skyclave Relic
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sower of Temptation
+1 Sphinx of Enlightenment
+1 Stormcarved Coast
+1 Sun Titan
+1 Sundown Pass
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Thought Vessel
+1 Tidal Barracuda
+1 Tragic Arrogance
+1 Training Grounds
+1 Trumpeting Carnosaur
+1 Vizier of Many Faces
+1 Warleader's Call
+1 Wayfarer's Bauble
+1 Wear/Tear
+1 Zirda, the Dawnwaker
+1 Livio, Oathsworn Sentinel
+1 Ludevic, Necro-Alchemist

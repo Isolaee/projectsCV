@@ -1,0 +1,85 @@
+powerlevel, 8
+1 Alhammarret's Archive
+1 All Is Dust
+1 All Will Be One
+1 Ancient Stone Idol
+1 Arcane Signet
+1 Blasphemous Act
+1 Blast Zone
+1 Blood Moon
+1 Bosh, Iron Golem
+1 Chaos Warp
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Combustible Gearhulk
+1 Command Beacon
+1 Contagion Engine
+1 Containment Construct
+1 Crucible of Worlds
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Darksteel Monolith
+1 Dualcaster Mage
+1 Duplicant
+1 Ensnaring Bridge
+1 Expedition Map
+1 Fomori Vault
+1 Goblin Engineer
+1 Goblin Welder
+1 God-Pharaoh's Statue
+1 Great Furnace
+1 Grim Monolith
+1 Hall of Tagsin
+1 Haven of the Spirit Dragon
+1 Inventors' Fair
+1 Jeweled Lotus
+1 Karn Liberated
+1 Karn, Legacy Reforged
+1 Karn, Living Legacy
+1 Karn's Bastion
+1 Krark-Clan Ironworks
+1 Kuldotha Forgemaster
+1 Liberator, Urza's Battlethopter
+1 Liquimetal Torque
+1 Mana Crypt
+1 Mana Vault
+1 Maze of Ith
+1 Meteor Golem
+1 Mindslaver
+17 Mountain
+1 Mox Opal
+1 Mycosynth Lattice
+1 Myr Battlesphere
+1 Mystic Forge
+1 Nevinyrral's Disk
+1 Orbs of Warding
+1 Phyrexia's Core
+1 Phyrexian Triniform
+1 Planar Bridge
+1 Portal to Phyrexia
+1 Prized Statue
+1 Scrap Mastery
+1 Scrap Trawler
+1 Scroll Rack
+1 Sculpting Steel
+1 Servo Schematic
+1 Slobad, Iron Goblin
+1 Sol Ring
+1 Spine of Ish Sah
+1 Squee, Goblin Nabob
+1 Terrain Generator
+1 The Mightstone and Weakstone
+1 Threefold Thunderhulk
+1 Triplicate Titan
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Unwinding Clock
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Workshop
+1 Vandalblast
+1 Voltaic Key
+1 Wasteland
+1 Wurmcoil Engine
+1 Daretti, Scrap Savant

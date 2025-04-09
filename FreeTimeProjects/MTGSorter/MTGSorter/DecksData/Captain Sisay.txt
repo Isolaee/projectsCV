@@ -1,0 +1,85 @@
+powerlevel, 6
+1 All That Glitters
+1 Alpha Authority
+1 Avacyn, Angel of Hope
+1 Bala Ged Recovery
+1 Bear Umbra
+1 Bow of Nylea
+1 Canopy Cover
+1 Canopy Vista
+1 Chains of Custody
+1 Cloudstone Curio
+1 Command Tower
+1 Crashing Drawbridge
+1 Danitha, New Benalia's Light
+1 Dawn's Reflection
+1 Defense of the Heart
+1 Deserted Temple
+1 Ethereal Armor
+1 Felidar Umbra
+1 Fertile Ground
+1 Flagstones of Trokair
+1 Flawless Maneuver
+9 Forest
+1 Galadriel's Dismissal
+1 Gandalf the White
+1 Ghalta, Stampede Tyrant
+1 Hall of Heliod's Generosity
+1 In Search of Greatness
+1 Instill Energy
+1 Karn Liberated
+1 Krosan Restorer
+1 Kutzil, Malamet Exemplar
+1 Light-Paws, Emperor's Voice
+1 Lotus Field
+1 Mantle of the Ancients
+1 Market Festival
+1 Marwyn, the Nurturer
+1 Mistveil Plains
+1 Myrel, Shield of Argive
+1 Nature's Chosen
+1 Nature's Lore
+1 Nissa, Genesis Mage
+1 Nykthos, Shrine to Nyx
+1 On Serra's Wings
+1 Open the Armory
+1 Oswald Fiddlebender
+1 Overgrowth
+1 Pariah
+9 Plains
+1 Portent Tracker
+1 Quest for Renewal
+1 Relic of Legends
+1 Sage's Reverie
+1 Sanctum Weaver
+1 Saryth, the Viper's Fang
+1 Seedborn Muse
+1 Sejiri Shelter
+1 Selesnya Sanctuary
+1 Selvala, Heart of the Wilds
+1 Shackles
+1 Shalai, Voice of Plenty
+1 Shielded by Faith
+1 Sigarda, Font of Blessings
+1 Sigarda's Aid
+1 Siona, Captain of the Pyleas
+1 Skrelv, Defector Mite
+1 Sol Ring
+1 Spirit Mantle
+1 Staff of Domination
+1 Sting, the Glinting Dagger
+1 Strong Back
+1 Sungrass Prairie
+1 Swiftfoot Boots
+1 Tempt with Discovery
+1 Thousand-Year Elixir
+1 Three Visits
+1 Triclopean Sight
+1 Ugin, the Spirit Dragon
+1 Umbral Mantle
+1 Unquestioned Authority
+1 Utopia Sprawl
+1 Voyaging Satyr
+1 Well Rested
+1 Wild Growth
+1 Captain Sisay

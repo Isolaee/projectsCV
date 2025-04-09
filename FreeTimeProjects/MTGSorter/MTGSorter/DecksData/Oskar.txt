@@ -1,0 +1,89 @@
+powerlevel, 7
+1 Ancient Excavation
+1 Arcane Signet
+1 Archfiend of Ifnir
+1 Ash Barrens
+1 Attunement
+1 Barren Moor
+1 Big Game Hunter
+1 Bonded Fetch
+1 Bone Miser
+1 Call to the Netherworld
+1 Careful Study
+1 Choked Estuary
+1 Circular Logic
+1 Clutch of the Undercity
+1 Containment Construct
+1 Contaminated Aquifer
+1 Dark Deal
+1 Darkslick Shores
+1 Darkwater Catacombs
+1 Dauthi Voidwalker
+1 Desecrated Tomb
+1 Dihada's Ploy
+1 Dimir House Guard
+1 Dimir Infiltrator
+1 Dimir Signet
+1 Dismember
+1 Dogged Detective
+1 Dread Return
+1 Dream Halls
+1 Drownyard Temple
+1 Emry, Lurker of the Loch
+1 Feast of Sanity
+1 Fellwar Stone
+1 Fetid Pools
+1 Frantic Search
+1 Geier Reach Sanitarium
+1 Ghostly Pilferer
+1 Gravebreaker Lamia
+1 Hagra Mauling
+7 Island
+1 Jace, Vryn's Prodigy
+1 Key to the City
+1 Ledger Shredder
+1 Likeness Looter
+1 Lonely Sandbar
+1 Lórien Revealed
+1 Master of Death
+1 Mind Stone
+1 Mishra's Bauble
+1 Mystic Sanctuary
+1 Nexus of Fate
+1 Nezahal, Primal Tide
+1 Oath of Ghouls
+1 Omen Hawker
+1 Ominous Roost
+1 Oversold Cemetery
+1 Path of Ancestry
+1 Patrician Geist
+1 Psychosis Crawler
+1 Reanimate
+1 River Kelpie
+1 Rona, Herald of Invasion
+1 See the Truth
+1 Shadowgrange Archfiend
+1 Shipwreck Marsh
+1 Skirge Familiar
+1 Sol Ring
+1 Step Through
+1 Sunken Citadel
+1 Sunken Hollow
+7 Swamp
+1 Syr Konrad, the Grim
+1 Talisman of Dominance
+1 Teferi, Master of Time
+1 Thought Vessel
+1 Tolaria West
+1 Tormod, the Desecrator
+1 Tortured Existence
+1 Toxic Deluge
+1 Troll of Khazad-dûm
+1 Unfulfilled Desires
+1 Urza's Bauble
+1 Vedalken Aethermage
+1 Vohar, Vodalian Desecrator
+1 Watery Grave
+1 Whispering Madness
+1 Windfall
+1 Oskar, Rubbish Reclaimer

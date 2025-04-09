@@ -1,0 +1,78 @@
+powerlevel, 8
+1 Agadeem's Awakening
+1 Ancient Tomb
+1 Ayara, First of Locthwain
+1 Barad-dûr
+1 Bastion of Remembrance
+1 Beseech the Mirror
+1 Bitterblossom
+1 Black Market Connections
+1 Bloodghast
+1 Bojuka Bog
+1 Braids, Arisen Nightmare
+1 Buried Ruin
+1 Butcher of Malakir
+1 Carrion Feeder
+1 Castle Locthwain
+1 Contamination
+1 Corrupted Conviction
+1 Crowded Crypt
+1 Crypt Ghast
+1 Culling the Weak
+1 Cult Conscript
+1 Damnation
+1 Dark Ritual
+1 Dauthi Voidwalker
+1 Deadly Dispute
+1 Deadly Rollick
+1 Defense Grid
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dictate of Erebos
+1 Dreadhorde Invasion
+1 Feed the Swarm
+1 Fell Stinger
+1 Grave Pact
+1 Gravecrawler
+1 Gray Merchant of Asphodel
+1 Imp's Mischief
+1 Jet Medallion
+1 Liliana, Dreadhorde General
+1 Lord Skitter, Sewer King
+1 Malakir Rebirth
+1 Morbid Opportunist
+1 Necropotence
+1 Nykthos, Shrine to Nyx
+1 Ophiomancer
+1 Opposition Agent
+1 Orcish Bowmasters
+1 Oubliette
+1 Phyrexian Altar
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Pitiless Plunderer
+1 Razaketh, the Foulblooded
+1 Reassembling Skeleton
+1 Rise of the Dark Realms
+1 Ritual of the Machine
+1 Skullclamp
+1 Sol Ring
+24 Swamp
+1 Takenuma, Abandoned Mire
+1 Tallyman of Nurgle
+1 Tarrian's Journal
+1 Tevesh Szat, Doom of Fools
+1 The Meathook Massacre
+1 Thrilling Encore
+1 Throne of Eldraine
+1 Toxic Deluge
+1 Underworld Hermit
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Vampiric Tutor
+1 Village Rites
+1 Viscera Seer
+1 Volrath's Stronghold
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+1 Jadar, Ghoulcaller of Nephalia

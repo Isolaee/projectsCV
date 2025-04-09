@@ -1,0 +1,90 @@
+powerlevel, 8
+1 Aether Membrane
+1 Amaranthine Wall
+1 Aragorn, King of Gondor
+1 Arcane Signet
+1 Azorius Signet
+1 Baird, Steward of Argive
+1 Battlefield Forge
+1 Boros Signet
+1 Borrowing 100,000 Arrows
+1 Brave the Sands
+1 Bucknard's Everfull Purse
+1 Buried Ruin
+1 Caltrops
+1 Clifftop Retreat
+1 Command Tower
+1 Commander's Sphere
+1 Court of Grace
+1 Court of Ire
+1 Crown of Doom
+1 Cut a Deal
+1 Death by Dragons
+1 Emberwilde Captain
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fell the Mighty
+1 Field of Ruin
+1 Flumph
+1 Fog Bank
+1 Fumiko the Lowblood
+1 Generous Gift
+1 Ghostly Prison
+1 Gift of Estates
+1 Glacial Fortress
+1 Goblin Diplomats
+1 Goblin Spymaster
+1 Gwafa Hazid, Profiteer
+1 High Alert
+1 Hover Barrier
+1 Humble Defector
+5 Island
+1 Mikokoro, Center of the Sea
+1 Mnemonic Wall
+1 Monologue Tax
+3 Mountain
+1 Mystic Barrier
+1 Mystic Monastery
+1 Negate
+1 Orbs of Warding
+1 Palace Jailer
+1 Path of Ancestry
+6 Plains
+1 Port Town
+1 Prairie Stream
+1 Propaganda
+1 Rammas Echor, Ancient Shield
+1 Recurring Insight
+1 Reins of Power
+1 Scholarship Sponsor
+1 Secret Rendezvous
+1 Shivan Reef
+1 Sleep
+1 Sol Ring
+1 Solar Blaze
+1 Steam Catapult
+1 Stonehorn Dignitary
+1 Stroke of Midnight
+1 Sulfur Falls
+1 Taunt from the Rampart
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Tempting Contract
+1 Terramorphic Expanse
+1 The Wanderer
+1 Thriving Heath
+1 Thriving Isle
+1 Throne of the High City
+1 Vivid Creek
+1 Vivid Meadow
+1 Wall of Denial
+1 Wall of Frost
+1 Wall of Omens
+1 Wall of Stolen Identity
+1 Wear/Tear
+1 Weathered Sentinels
+1 Wind-Scarred Crag
+1 Windborn Muse
+1 Your Temple Is Under Attack
+1 Pramikon, Sky Rampart

@@ -1,0 +1,75 @@
+powerlevel, 9
+1 Angel of Destiny
+1 Arcane Signet
+1 Auriok Champion
+1 Baldin, Century Herdmaster
+1 Blade of Selves
+1 Charismatic Conqueror
+1 Charming Prince
+1 Circuit Mender
+1 Deep Gnome Terramancer
+1 Discerning Financier
+1 Distinguished Conjurer
+1 Dusk/Dawn
+1 Eerie Interlude
+1 Elesh Norn, Mother of Machines
+1 Emeria, the Sky Ruin
+1 Ephemerate
+1 Evangel of Heliod
+1 Expedition Map
+1 Felidar Guardian
+1 Flumph
+1 Generous Gift
+1 Ghost Quarter
+1 Grand Abolisher
+1 Guardian of Faith
+1 Illustrious Wanderglyph
+1 Inspiring Overseer
+1 Kabira Takedown
+1 Karmic Guide
+1 Knight of the White Orchid
+1 Land Tax
+1 Lightning Greaves
+1 Loran of the Third Path
+1 Lotus Field
+1 Mangara, the Diplomat
+1 Mask of Memory
+1 Mentor of the Meek
+1 Michiko Konda, Truth Seeker
+1 Mirror Entity
+1 Mistveil Plains
+1 Mondrak, Glory Dominus
+1 Moonshaker Cavalry
+1 Mother of Runes
+1 Novice Inspector
+1 Nykthos, Shrine to Nyx
+1 Oketra's Monument
+1 Path to Exile
+1 Pearl Medallion
+27 Plains
+1 Ranger-Captain of Eos
+1 Reverent Hoplite
+1 Saradoc, Master of Buckland
+1 Scavenger Grounds
+1 Sejiri Shelter
+1 Selfless Spirit
+1 Skullclamp
+1 Skyclave Apparition
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul Warden
+1 Soul's Attendant
+1 Spirited Companion
+1 Stoneforge Mystic
+1 Storm of Souls
+1 Suture Priest
+1 Swords to Plowshares
+1 Teleportation Circle
+1 The Battle of Bywater
+1 The Gaffer
+1 The One Ring
+1 Thraben Inspector
+1 Wall of Omens
+1 Wojek Investigator
+1 Delney, Streetwise Lookout

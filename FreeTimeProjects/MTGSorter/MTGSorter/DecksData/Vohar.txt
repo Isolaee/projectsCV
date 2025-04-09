@@ -1,0 +1,93 @@
+powerlevel, 9
+1 Agadeem's Awakening
+1 Ancient Brass Dragon
+1 Ancient Excavation
+1 Ancient Silver Dragon
+1 Ancient Stone Idol
+1 Animate Dead
+1 Arcane Signet
+1 Archfiend of Ifnir
+1 Archon of Cruelty
+1 Astral Dragon
+1 Black Market Connections
+1 Body Double
+1 Brainstealer Dragon
+1 Clearwater Pathway
+1 Command Tower
+1 Connive/Concoct
+1 Consecrated Sphinx
+1 Cyclonic Rift
+1 Darkslick Shores
+1 Deadly Rollick
+1 Diluvian Primordial
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Drana, the Last Bloodchief
+1 Drowned Catacomb
+1 Elder Brain
+1 Emrakul, the Promised End
+1 Entreat the Dead
+1 Fierce Guardianship
+1 Force of Negation
+1 Geier Reach Sanitarium
+1 Glasspool Mimic
+1 Hostile Negotiations
+1 Hullbreaker Horror
+1 Incarnation Technique
+3 Island
+1 Jin-Gitaxias, Core Augur
+1 Jin-Gitaxias, Progress Tyrant
+1 Ledger Shredder
+1 Living Death
+1 Lord of Change
+1 Lord of the Void
+1 Malakir Rebirth
+1 Mandate of Abaddon
+1 Massacre Wurm
+1 Minamo, School at Water's Edge
+1 Mindleech Mass
+1 Morphic Pool
+1 Necrogoyf
+1 Necromancy
+1 Necromantic Summons
+1 Necropolis Regent
+1 Nephalia Drownyard
+1 Nezahal, Primal Tide
+1 Obsessive Stitcher
+1 Otawara, Soaring City
+1 Overseer of the Damned
+1 Path of the Schemer
+1 Persist
+1 Phyrexian Delver
+1 Phyrexian Metamorph
+1 Port of Karfell
+1 Reanimate
+1 Rhystic Study
+1 Rise of the Dark Realms
+1 Rune-Scarred Demon
+1 Scholar of the Ages
+1 Sea Gate Restoration
+1 Sheoldred, the Apocalypse
+1 Sheoldred, Whispering One
+1 Shipwreck Marsh
+1 Sire of Stagnation
+1 Sol Ring
+1 Sphinx of Magosi
+1 Sphinx of the Second Sun
+1 Stitch Together
+5 Swamp
+3 Swamp
+1 Takenuma, Abandoned Mire
+1 Talisman of Dominance
+1 Teferi, Master of Time
+1 Tomb Fortress
+1 Toxrill, the Corrosive
+1 Triplicate Titan
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Victimize
+1 Vilis, Broker of Blood
+1 Watery Grave
+1 Writ of Return
+1 Yawgmoth's Vile Offering
+1 Vohar, Vodalian Desecrator
