@@ -17,4 +17,4 @@ Not so simple plan is to:
 - Git: pre-commit/Git
 
 
-# I decided to move project under 
+# I decided to move project under https://github.com/Isolaee/MTGSorter_V2
