@@ -15,3 +15,6 @@ Not so simple plan is to:
 - Tests: pyTest/Tox
 - Coding: black/flake8/Secrets
 - Git: pre-commit/Git
+
+
+# I decided to move project under 
